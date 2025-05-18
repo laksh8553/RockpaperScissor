@@ -4,6 +4,11 @@
     text-align: center;
 
 }
+body{
+    background-image: url(background.png) ;
+    background-size: cover;
+    
+}
 h1{
     background-color: #081b31;
     color: #fff;
